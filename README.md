@@ -42,12 +42,14 @@ a. Likewise, start a function named black_aankha().
    Now, set the pen size to 6 and call the “avinash” function with the arguments (20, 205), seth(75), circle(-10, 150), and set the pen size to 3.
    Again, call the “avinash” function with the arguments(-17, 200). Then, call seth(0), fill the part with #ffffff (white), and begin fill.
    Now, draw a circle(5) and end fill.
+
 b. Similarly, create a function name face().
    Inside this function, call the fd(183), lt(45), fill with the color #ffffff (white) and begin the fill.
    Now, create a circle(120, 100), seth(180), fd(121) and put the down.
    Then, call seth(215), circle(120, 100), end the fill and call “avinash” with the arguments (63.56, 213.24).
    Likewise, call seth(90), avinash(), seth(180) and pick the pen up.
    Then, call fd(60), pendown(), seth(90), aankha(), penup(), seth(180) and fd(64).
+
 c. Now, create a function tauko().
    Inside this function, call penup(), circle(150, 40), pendown() and fill the part with the color #00a0de.
    Then, begin the fill and draw a circle(150, 280) and end the fill.
